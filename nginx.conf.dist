@@ -1,5 +1,5 @@
 server {
-    server_name rappnet;
+    server_name inscribe;
     root /var/www/inscribe/public;
 
     listen 80;
