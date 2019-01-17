@@ -56,6 +56,8 @@
             "url": "../Survos/LandingBundle"
         }
     ],
+    "minimum-stability": "dev",
+
     "replace": {
         "paragonie/random_compat": "2.*",
         "symfony/polyfill-ctype": "*",
@@ -82,7 +84,7 @@
     "extra": {
         "symfony": {
             "allow-contrib": true,
-            "require": "4.1.*"
+            "require": "4.2.*"
         }
     }
 }
